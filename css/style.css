@@ -72,8 +72,8 @@ body {
 	width: 100%;
 }
 
-.menu__link--main,
-.menu__link--main:hover {
+.menu__link--active,
+.menu__link--active:hover {
     color: #ffc700;
 }
 
